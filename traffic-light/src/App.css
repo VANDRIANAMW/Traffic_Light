@@ -1,0 +1,66 @@
+#boxDad{
+  border-color: black;
+  width: 300px;
+  height: 300px;
+
+ align-items: center;
+ margin: 0 auto;
+}
+
+#soport{
+  background: black;
+  width: 10px;
+  height: 70px;
+  margin-left: 65px;
+}
+
+#box{
+ background: black;
+ width: 70px;
+ height: 187px;
+ margin-left: 30PX;
+ padding: 7px;
+ cursor: pointer;
+
+}
+
+.light{
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  border-radius: 50%;
+  padding: 4px;
+  cursor: pointer;
+} 
+.red  {
+  
+  background: red;
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  border-radius: 50%;
+  padding: 4px;
+  margin-bottom: 5px;
+}
+.yellow  {
+  background: yellow;
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  border-radius: 50%;
+  padding: 4px;
+  margin-bottom: 5px;
+}
+.green  {
+  background: green;
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  border-radius: 50%;
+  padding: 4px;
+ 
+}
+
+.shadow{
+  box-shadow: white 0px 0px 40px 20px
+}
